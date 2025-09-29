@@ -1,0 +1,5 @@
+zryaplata = int(input())
+kredit = int(input())
+kommunalka = int(input())
+ostatok = zryaplata - (kredit + kommunalka)
+print(ostatok)
