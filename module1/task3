@@ -1,0 +1,5 @@
+meters = int(input())
+print("decemiters: ",meters*10)
+print("santimeters: ", meters*100)
+print("millimeters: ", meters*1000)
+print("miles", meters*0.00062137)
